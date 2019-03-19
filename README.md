@@ -9,8 +9,8 @@ people who are currently listening to the same music, chat with one another, and
 - [Michael Snow](https://github.com/michaelsnow3)
 
 ## Built with
-- Front-End: react-native
-- Back-End: express, socket.io, Spotify API, postgres
+- Front-End: React-Native
+- Back-End: Express, Sockets.io, Spotify API, PSQL
 
 ## Final Product
 !["Nearby feature"](https://github.com/michaelsnow3/Final-Project/blob/master/docs/Mar-18-2019%2013-24-02.gif?raw=true)
